@@ -1,4 +1,5 @@
 I am Dongdong Kong, associate professor of China University of Geosciences.
+You can reach me by https://www.researchgate.net/profile/Dongdong_Kong, or kongdd.sysu at gmail.com.
 
 <!--
 **kongdd/kongdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
