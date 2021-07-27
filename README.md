@@ -1,12 +1,12 @@
-### Hi there 👋
+> I am Dongdong Kong,   
+> Associate Professor of China University of Geosciences (WuHan), China.
+> 
+> 👯 I’m looking to collaborate on climate change and eco-hydrological researches.
 
-<!--
-**kongdd/kongdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ResearchGate: https://www.researchgate.net/profile/Dongdong_Kong
+- Google Scholar: https://scholar.google.com/citations?user=B5OpmAoAAAAJ
+- CUG profile: http://grzy.cug.edu.cn/kongdd
+- 公众号: Advanced-R   
+  <img src="https://mmbiz.qpic.cn/mmbiz_png/wSb3xKNNJHYpiaKxXO0PzXgzMhwJmPeTb9WTAAjZ2LDTG1qMiatyw4unYRPG4qMId4uOqymaA2Eng4G8msuuHQNA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" width="200"/>
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on Vegetation Photosynthesis and transpiration
-- 🌱 I’m currently learning Julia and Python, geo-spatial data processing and eco-hydrological model
-- 👯 I’m looking to collaborate on climate change and eco-hydrological researches.
-- ⚡ Fun fact: ...
+[My packages](pkgs.md)
