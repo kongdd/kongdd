@@ -1,3 +1,17 @@
+Inter-Comparison of Diverse Heatwave Definitions in the Analysis of Spatiotemporally Contiguous Heatwave Events over China
+
+Detection and attribution of human influence on the global diurnal temperature range decline
+
+Greenhouse gas emissions drive global dryland expansion but not spatial patterns of change in aridification
+
+phenofit: An R package for extracting vegetation phenology from time series remote sensing
+
+Response of global land evapotranspiration to climate change, elevated CO2, and land use change
+
+Contributions of anthropogenic forcings to evapotranspiration changes over 1980–2020 using GLEAM and CMIP6 simulations
+
+Improvement in the Estimation of Daily Net Surface Radiation in China
+
 [1]   **Kong, D.**, Gu X., Li J., Ren G., Liu, J. (2020), Contributions of anthropogenic warming and urbanization to intensification of heatwaves over China, ***Journal of Geophysical Research: Atmosphere\*** (**Q1**, accepted)
 
 [2]   **Kong, D.**, Zhang, Y., Wang, D., Chen, J., & Gu, X. (2020). Photoperiod Explains the Asynchronization Between Vegetation Carbon Phenology and Vegetation Greenness Phenology. ***Journal of Geophysical Research: Biogeosciences\***, 125(8), e2020JG005636. https://doi.org/10.1029/2020JG005636
