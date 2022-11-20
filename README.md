@@ -11,6 +11,10 @@
 
 [My packages](pkgs.md)
 
+## Course
+
+- 水文气象学，<https://github.com/CUG-hydro/class2022_CUG_HydroMet>
+
 ## Undergoing Researches
 
 - https://github.com/kongdd/ET_evaluation
