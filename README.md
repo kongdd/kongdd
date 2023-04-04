@@ -15,6 +15,6 @@
 
 [软件包](pkgs.md)
 
-[研究生招生简介](recruit.md)
+[研究生招生](recruit.md)
 
 [已发表论文](MyPublication.md)
