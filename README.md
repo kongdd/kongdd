@@ -1,5 +1,5 @@
 > I am Dongdong Kong,   
-> Associate Professor of China University of Geosciences (WuHan), China.
+> China University of Geosciences (WuHan), China.
 > 
 > 👯 I’m looking to collaborate on climate change and eco-hydrological researches.
 
@@ -13,8 +13,11 @@
 
 - 水文气象学，<https://github.com/CUG-hydro/class2022_CUG_HydroMet>
 
+
 [软件包](pkgs.md)
 
+<!-- 
 [研究生招生](recruit.md)
 
 [已发表论文](MyPublication.md)
+-->
