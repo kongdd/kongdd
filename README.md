@@ -11,7 +11,7 @@
 
 ## Course
 
-- 水文气象学，<https://github.com/CUG-hydro/class2022_CUG_HydroMet>
+- 水文气象学，<https://github.com/CUG-hydro/class2023_CUG_HydroMet>
 
 
 [软件包](pkgs.md)
