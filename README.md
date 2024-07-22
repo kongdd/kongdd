@@ -13,8 +13,12 @@
 
 - 水文气象学，<https://github.com/CUG-hydro/class2023_CUG_HydroMet>
 
-
 [软件包](pkgs.md)
+
+## APP
+- [全球表层与根系深度土壤墒情监测](https://gee-hydro.projects.earthengine.app/view/global-daily-soil-moisture-monitor-smap-l4engine-developers)
+- [全球极端降水监测](https://gee-hydro.projects.earthengine.app/view/daily-precipitation-monitor-gsmap-v8)
+- [基于MODIS LAI的中国植被干旱监测](https://ee-kongdd.projects.earthengine.app/view/drought-svdi)
 
 <!-- 
 [研究生招生](recruit.md)
