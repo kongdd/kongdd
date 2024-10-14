@@ -3,12 +3,10 @@
 > 
 > 👯 I’m looking to collaborate on climate change and eco-hydrological researches.
 
-- ResearchGate: https://www.researchgate.net/profile/Dongdong_Kong
-- Google Scholar: https://scholar.google.com/citations?user=B5OpmAoAAAAJ
-- CUG profile: http://grzy.cug.edu.cn/kongdd
-- 公众号: 生态水文Tools (eco-hydro)  
-  <img src="https://mmbiz.qpic.cn/mmbiz_png/wSb3xKNNJHYpiaKxXO0PzXgzMhwJmPeTb9WTAAjZ2LDTG1qMiatyw4unYRPG4qMId4uOqymaA2Eng4G8msuuHQNA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" width="200"/>
-
+- ResearchGate: <https://www.researchgate.net/profile/Dongdong_Kong>
+- Google Scholar: <https://scholar.google.com/citations?user=B5OpmAoAAAAJ>
+- CUG profile: <http://grzy.cug.edu.cn/kongdd>
+- Web of Science: <https://webofscience.clarivate.cn/wos/author/record/AAQ-3093-2020> (3 Highly Citied Papers)
 ## Course
 
 - 水文气象学，<https://github.com/CUG-hydro/class2023_CUG_HydroMet>
