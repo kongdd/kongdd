@@ -6,10 +6,10 @@
 - ResearchGate: <https://www.researchgate.net/profile/Dongdong_Kong>
 - Google Scholar: <https://scholar.google.com/citations?user=B5OpmAoAAAAJ>
 - CUG profile: <http://grzy.cug.edu.cn/kongdd>
-- Web of Science: <https://webofscience.clarivate.cn/wos/author/record/AAQ-3093-2020> (3 Highly Citied Papers)
+- Web of Science: <https://webofscience.clarivate.cn/wos/author/record/AAQ-3093-2020> (4 Highly Citied Papers)
 ## Course
 
-- 水文气象学，<https://github.com/CUG-hydro/class2023_CUG_HydroMet>
+- 水文气象学，<https://github.com/CUG-hydro/class2024_CUG_HydroMet>
 
 [软件包](pkgs.md)
 
