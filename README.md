@@ -9,9 +9,11 @@
 - Web of Science: <https://webofscience.clarivate.cn/wos/author/record/AAQ-3093-2020> (4 Highly Citied Papers)
 ## Course
 
-- 水文气象学，<https://github.com/CUG-hydro/class2024_CUG_HydroMet>
+水文气象学，<https://github.com/CUG-hydro/class2024_CUG_HydroMet>
 
+<!-- 
 [软件包](pkgs.md)
+-->
 
 ## APP
 - [全球表层与根系深度土壤墒情监测](https://gee-hydro.projects.earthengine.app/view/global-daily-soil-moisture-monitor-smap-l4)
